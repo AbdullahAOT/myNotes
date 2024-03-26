@@ -3,12 +3,12 @@ My name is Abdullah Abuhalimeh, a CIS (Computer information systems) dresh gradu
 
 In today's lecture, I have learned:
 
-- Learn the difference between GUI and CLI
-- Understand basic terminal commands
-- Understand VCS
-- Learn what is Git
-- Learn basic Git commands
-- Learn what is Github
-- Learn the difference between Git and GitHub
-- Learn Markdown language with its features.
-- Clone a repository using SSH
+- The difference between GUI and CLI
+- Understood basic terminal commands
+- Understood VCS
+- Learnt what is Git
+- Learnt basic Git commands
+- Learnt what is Github
+- Learnt the difference between Git and GitHub
+- Learnt Markdown language with its features.
+- Didnt know how to use ssh and had to use token :)
