@@ -3,5 +3,12 @@ My name is Abdullah Abuhalimeh, a CIS (Computer information systems) dresh gradu
 
 In today's lecture, I have learned:
 
-- What a version control system is
-- The key differences between Git and GitHub
+- Learn the difference between GUI and CLI
+- Understand basic terminal commands
+- Understand VCS
+- Learn what is Git
+- Learn basic Git commands
+- Learn what is Github
+- Learn the difference between Git and GitHub
+- Learn Markdown language with its features.
+- Clone a repository using SSH
