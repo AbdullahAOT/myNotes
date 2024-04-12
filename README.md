@@ -1,4 +1,9 @@
-My name is Abdullah Abuhalimeh, a CIS (Computer information systems) dresh graduate from the Hashemite university, I'm now a student in LTUC learning .Net course.
+![Profile Picture](image.jpg)
+
+## Bio
+
+My name is Abdullah Abuhalimeh, I am 22 years old, a CIS (Computer information systems) fresh graduate from the Hashemite university, I'm now a student in LTUC learning .Net course.
+
 ## Today's Lecture Highlights
 
 In today's lecture, I have learned:
@@ -11,4 +16,3 @@ In today's lecture, I have learned:
 - Learnt what is Github
 - Learnt the difference between Git and GitHub
 - Learnt Markdown language with its features.
-- Didnt know how to use ssh and had to use token :)
